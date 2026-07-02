@@ -29,46 +29,21 @@ using System.Transactions;
 namespace ConsoleApp1
 {
 
-    public abstract class PaymentProcessor
-    {
-        public decimal Amount { get; set; }
-        public string ?TransactionId { get; set; }
+   
 
-        public abstract void ProccessPayment();
-    }
-
-    public class CreditCardProcessor : PaymentProcessor
-    {
-
-        public override void ProccessPayment()
-        {
-            Console.WriteLine($"Processing credit card payment of ${Amount}. Transaction ID: {TransactionId}");
-        }
-
-    }
-    public class PaypalProccessor : PaymentProcessor
-    {
-
-        public override void ProccessPayment()
-        {
-            Console.WriteLine($"Connecting to PayPal securely... Paid ${Amount}.");
-        }
-
-    }
-
-    internal class abstraction_exercise
+    internal class Program
     {
         public static void Main(string[] args)
         {
-            //var Gen = new get_set(10);
-            DataPacker<int> data = new DataPacker<int>();
+            ////var Gen = new get_set(10);
+            //DataPacker<int> data = new DataPacker<int>();
 
-            data.Add(23);
-            data.Add(92);
-            data.Add(12);
-            data.Add(12);
+            //data.Add(23);
+            //data.Add(92);
+            //data.Add(12);
+            //data.Add(12);
 
-            data.PrintAll();
+            //data.PrintAll();
 
             
             ////int [] Number = new int[4];
