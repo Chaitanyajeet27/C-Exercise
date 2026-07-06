@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\source\\repos\\consoleapp1\\c# exercise\\consoleapp1\\genericclassexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\genericclassexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\source\\repos\\consoleapp1\\c# exercise\\consoleapp1\\op_overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\op_overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\source\\repos\\consoleapp1\\c# exercise\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\source\\repos\\consoleapp1\\c# exercise\\consoleapp1\\inheritanceexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inheritanceexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\source\\repos\\consoleapp1\\c# exercise\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\dell\\source\\repos\\consoleapp1\\c# exercise\\consoleapp1\\genericsecondexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\genericsecondexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenericClassExercise.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\GenericClassExercise.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\GenericClassExercise.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\GenericClassExercise.cs",
-              "RelativeToolTip": "ConsoleApp1\\GenericClassExercise.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Title": "op_overloading.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\op_overloading.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\op_overloading.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\op_overloading.cs",
+              "RelativeToolTip": "ConsoleApp1\\op_overloading.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T09:40:58.62Z",
+              "WhenOpened": "2026-07-05T16:52:30.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "GenericSecondExercise.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\GenericSecondExercise.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GenericSecondExercise.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\GenericSecondExercise.cs",
+              "RelativeToolTip": "ConsoleApp1\\GenericSecondExercise.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T09:44:32.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T09:36:57.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T09:36:57.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InheritanceExercise.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\InheritanceExercise.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\InheritanceExercise.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\ConsoleApp1\\C# Exercise\\ConsoleApp1\\InheritanceExercise.cs",
               "RelativeToolTip": "ConsoleApp1\\InheritanceExercise.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB0AAAB/AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T09:36:48.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T09:36:48.448Z"
             }
           ]
         }

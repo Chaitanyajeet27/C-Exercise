@@ -13,6 +13,14 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
+
+           
+        //    HistoryLog<> obj = new HistoryLog<int>();
+        //    obj.Log(10);
+            
+        //    obj.ShowHistory();
+        //    obj.Containsitem(13);
+
             ////var Gen = new get_set(10);
             //DataPacker<int> data = new DataPacker<int>();
 
